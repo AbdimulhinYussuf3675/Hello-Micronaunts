@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> Hello Microverse
+> This is a simple HTML project that linter is installed to analyze the source code to flag errors, bugs, stylistic errors, and suspicious constructs.
 
 
 ## Built With
@@ -14,17 +14,21 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
+### Prerequisites
+A Web Browser (preferably Google Chrome
+
+### Setup
+clone the GitHub Repository(https://github.com/AbdimulhinYussuf3675/Hello-Micronaunts)
+
+### Usage
+  Open index.html in Chrome
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Abdimulhin Adan**
 
 - GitHub: [@githubhandle](https://github.com/AbdimulhinYussuf3675)
 - Twitter: [@twitterhandle](https://twitter.com/abdimulhin)
@@ -43,10 +47,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
 - Inspiration
-- etc
+- Microverse
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENCE) licensed.
