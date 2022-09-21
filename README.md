@@ -2,7 +2,8 @@
 
 # Hello Microverse
 
-> In this project, I set up a "Hello world" repository. No complex coding is required for this exercise. The goal here is to master all of the tools and best practices in setting up a GitHub repository
+t
+> In this project, I set up a "Hello world" repository. No complex coding is required for this exercise. The goal here is to master all of the tools and best practices in setting up a GitHub repository.
 
 
 ## Built With
@@ -53,3 +54,4 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./LICENCE) licensed.
+
