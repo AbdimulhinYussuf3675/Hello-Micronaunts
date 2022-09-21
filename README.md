@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-> This is a simple HTML project that linter is installed to analyze the source code to flag errors, bugs, stylistic errors, and suspicious constructs.
+> In this project, I set up a "Hello world" repository. No complex coding is required for this exercise. The goal here is to master all of the tools and best practices in setting up a GitHub repository
 
 
 ## Built With
